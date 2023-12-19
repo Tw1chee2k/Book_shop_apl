@@ -1,4 +1,4 @@
-# mONT_c-_api is a web application for adding and selling books
+# mONT_c-_api is a application for adding and selling books
 
 ![image](https://github.com/Tw1chee2k/mONT_c-_apl/assets/117592041/05d0ff94-08b5-4375-89c1-6faae61ee47b)
 
